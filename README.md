@@ -1,4 +1,7 @@
 Use a,d to move left and right, press space to shoot, dodge the ice creams and shoot the bidens.
+
+
+
 Используйте a, d для перемещения влево и вправо, нажмите пробел, чтобы стрелять, уклоняйтесь от мороженого и стреляйте в биденов.
 
 
